@@ -26,7 +26,7 @@ Project by : Sadaf Nasir, Peixuan Xu, and Kyoheon Hwang
 
 (file: reg_model_prepost_Ancova.ipynb)
 - main research objective
-- KNN, Rnadom Forest, and MLP modeling for prediction of post intervention mental wellbeing
+- KNN, Rnadom Forest, and MLP modeling for prediction of post intervention mental wellbeing (regression problem)
 
 ## 000 part
 
