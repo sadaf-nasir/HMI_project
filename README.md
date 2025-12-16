@@ -28,7 +28,35 @@ Project by : Sadaf Nasir, Peixuan Xu, and Kyoheon Hwang
 - main research objective
 - KNN, Rnadom Forest, and MLP modeling for prediction of post intervention mental wellbeing (regression problem)
 
-## 000 part
+## Peixuan(Nancy)'s part
+
+### Time-of-Day and Engagement in a Mobile Mindfulness App
+
+This folder contains the final materials for a research project examining whether **time of day (morning, afternoon, evening)** predicts user engagement in a mobile mindfulness application.
+
+### 1. `time_engagement.ipynb`
+This Jupyter Notebook contains the full analytical workflow for the project, including:
+- Data loading and preprocessing  
+- Data cleaning and feature engineering  
+- Exploratory data analysis and visualization  
+- Statistical modeling using a Negative Binomial GLM  
+- Model-based predictions and visualizations of engagement patterns  
+
+This file documents all coding steps used to generate the results reported in the final paper.
+
+### 2. `HMI_Final_Report_Peixuan(Nancy).pdf`
+This PDF is the **final written report** for the project. It includes:
+- Background and theoretical motivation  
+- Research questions and analytic plan  
+- Methods and modeling strategy  
+- Results and interpretation  
+- Discussion, limitations, and future directions  
+
+The report synthesizes findings from the analyses conducted in `time_engagement.ipynb`.
+
+### Project Overview
+
+The goal of this project is to investigate whether **temporal patterns of practice** are associated with higher engagement in a digital mindfulness intervention, while controlling for demographic factors such as age. Engagement is operationalized using multiple metrics to ensure robustness of results.
 
 
 ## 000 part
